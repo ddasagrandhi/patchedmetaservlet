@@ -10,8 +10,8 @@
   </parent>
   <groupId>org.example.copy_of_testwith_patch_2.job</groupId>
   <artifactId>test</artifactId>
-  <version>0.1.0</version>
-  <name>COPY_OF_TESTWITH_PATCH_2 test-0.1.0 (0.1,Job Designs)</name>
+  <version>0.2.0</version>
+  <name>COPY_OF_TESTWITH_PATCH_2 test-0.2.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
